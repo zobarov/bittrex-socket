@@ -12,7 +12,9 @@ Preconfigured setup for JavaScript projects on Node.js
 
 * npm install express --save
 * npm install socket.io --save
+* npm install properties-reader
 * npm install -g nodemon
+
 
 ## Usage
 
