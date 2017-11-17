@@ -1,15 +1,25 @@
 {
   "name": "bittrex-socket",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "Alex",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
     "socket.io": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zobarov/bittrex-socket.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zobarov/bittrex-socket/issues"
+  },
+  "homepage": "https://github.com/zobarov/bittrex-socket#readme",
+  "description": "Preconfigured setup for JavaScript projects on Node.js",
+  "devDependencies": {}
 }
